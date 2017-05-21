@@ -4,7 +4,7 @@
 <style>
 @font-face {
    font-family: Scheherazade;
-   src: url(https://fonts.googleapis.com/css?family=Scheherazade);
+   src: url(https://fonts.googleapis.com/css?family=Tahoma);
 }
 
 body {
