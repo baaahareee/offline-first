@@ -10,10 +10,7 @@
 body {
    font-family: Scheherazade;
 }
-</style>
 
-
-</style>
 </head>
 <body>
 
