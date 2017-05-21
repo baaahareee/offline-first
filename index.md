@@ -9,9 +9,9 @@
 
 p {
    font-family: fontt;
+   color:red;
 }
-p{
-color:red;}
+
 </style>
 
 </head>
