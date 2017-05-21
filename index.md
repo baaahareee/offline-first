@@ -9,10 +9,9 @@
 
 p {
    font-family: fontt;
-   color: #7a7c7f; 
-   font-size: 29px; 
-   line-height: 45px; 
-   text-align: center; 
+   color: #7a7c7f;  
+   line-height: 25px; 
+   text-align: justify; 
    text-shadow: 0 1px 1px #fff; 
    padding-top: 20px;
 }
