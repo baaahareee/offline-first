@@ -4,10 +4,10 @@
 <style>
 @font-face {
    font-family: fontt;
-   src: url('BNazanin.tff');
+   src: url('BNazanin.ttf');
 }
 
-body {
+p {
    font-family: fontt;
 }
 </style>
