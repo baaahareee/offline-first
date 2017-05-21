@@ -9,8 +9,9 @@
 
 p {
    font-family: fontt;
-   color: #7a7c7f;  
-   line-height: 25px; 
+   color: #7a7c7f; 
+   font-size:20px;
+   line-height: 30px; 
    text-align: justify; 
    text-shadow: 0 1px 1px #fff; 
    padding-top: 20px;
