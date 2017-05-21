@@ -9,7 +9,12 @@
 
 p {
    font-family: fontt;
-   color:red;
+   color: #685206;
+   font-size: 14px; 
+   line-height: 24px; 
+   margin: 0 0 24px; 
+   text-align: justify; 
+   text-justify: inter-word;
 }
 
 </style>
