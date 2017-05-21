@@ -6,7 +6,11 @@
    font-family: fontt;
    src: url('NAZANIN.TTF');
 }
-
+h2 { color: #2CA4B0; 
+ font-size: 24px; 
+ font-weight: normal;
+ line-height: 32px;
+ margin: 0 0 18px; text-shadow: 1px 0 0 #fff; }
 p {
    font-family: fontt;
    color: #7a7c7f; 
