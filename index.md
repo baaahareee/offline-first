@@ -4,7 +4,7 @@
 <style>
 @font-face {
    font-family: fontt;
-   src: url('BNazanin.ttf');
+   src: url('NAZANIN.TTF');
 }
 
 p {
