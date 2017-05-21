@@ -3,12 +3,12 @@
 
 <style>
 @font-face {
-   font-family: Scheherazade;
-   src: url(https://fonts.googleapis.com/css?family=Tahoma);
+   font-family: fontt;
+   src: url('BNazanin.tff');
 }
 
 body {
-   font-family: Scheherazade;
+   font-family: fontt;
 }
 </style>
 
