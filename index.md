@@ -1,10 +1,18 @@
 <html>
 <head>
-@import url(https://fonts.googleapis.com/css?family=Scheherazade);
+
 <style>
-body {
-    font-family: 'Scheherazade';
+@font-face {
+   font-family: Scheherazade;
+   src: url(https://fonts.googleapis.com/css?family=Scheherazade);
 }
+
+body {
+   font-family: Scheherazade;
+}
+</style>
+
+
 </style>
 </head>
 <body>
