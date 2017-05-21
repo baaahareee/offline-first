@@ -1,14 +1,10 @@
 <html>
 <head>
+@import url(https://fonts.googleapis.com/css?family=Scheherazade);
 <style>
-@font-face{
-font-family: 'fontt';
-src: url('BNazanin.ttf')
+body {
+    font-family: 'Scheherazade';
 }
-body{
-font-family:'fontt';
-}
-
 </style>
 </head>
 <body>
